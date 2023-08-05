@@ -24,4 +24,4 @@ random.shuffle(word)
 
 # join the shuffled list elements to create the password
 password = "".join(word)
-print(password)
+print('The Generated Password is '+password)
